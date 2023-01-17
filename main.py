@@ -1,1 +1,1 @@
-ggprint()
+print()
